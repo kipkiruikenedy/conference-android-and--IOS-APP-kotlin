@@ -1,0 +1,94 @@
+/*
+  Localizable.strings
+  iosApp
+
+  Created by GERARD on 01/05/2022.
+  Copyright © 2022 orgName. All rights reserved.
+*/
+
+"screenEventsFuture" = "Prochains évènements";
+"screenEventsPast" = "Précédents évènements";
+"screenAgenda" = "Agenda";
+"screenNetworking" = "Networking";
+"screenPartners" = "Partenaires";
+"screenEvent" = "Événement";
+
+"titleGold" = "Gold";
+"titleSilver" = "Silver";
+"titleBronze" = "Bronze";
+"titleNetworkProfile" = "Supprime un profil";
+"titleNotifReminderTalk %@" = "Talk dans 10 minutes en %@";
+"titleNotifReminderTalkSpeakers %@" = "Par %@";
+"titlePlanPartner" = "Se rendre chez le partenaire";
+"titleJobs" = "Emplois";
+"titleCommunication" = "Communication sur les réseaux";
+"titleCommunicationTwitter" = "Message sur Twitter";
+"titleCommunicationLinkedin" = "Message sur LinkedIn";
+"titleLinks" = "Liens";
+"titleTalks" = "Conférences";
+"titleCompany" = "Entreprise";
+"titleJob" = "Job";
+
+"textLoading" = "Chargement…";
+"textError" = "Une erreur inconnue est survenue";
+"textScheduleTime %@ %@" = "De %@ à %@";
+"textLevelAdvanced" = "Avancé";
+"textLevelIntermediate" = "Intermédiaire";
+"textLevelBeginner" = "Débutant";
+"textOpenfeedbackNotStarted" = "Vous serez en mesure de donner un feedback quand la session aura démarrée !";
+"textReportSubject" = "Report depuis l'app Devfest Lille";
+"textNetworkingEmpty" = "Ici c'est la zone de networking. Créer ton profil pour pouvoir ajouter les profils que tu croiseras et avec qui tu veux garder contact après l'événement !";
+"textNetworkingWarning" = "Si vous créez votre profil et que vous partagez votre qrcode, vous acceptez la prospection que peut représenter ce scan par l’un de nos partenaires.";
+"textNetworkingHereWeGo" = "C'est parti !";
+"textNetworkingAskToDelete %@ %@" = "Es-tu sûr de vouloir supprimer %@ %@ de ton espace de networking ?";
+"textTicketFirstname" = "Prénom";
+"textTicketLastname" = "Nom";
+"textAgendaNoFavorites" = "Vous n'avez pas de conférences en favoris";
+"textPauseItem" = "Pause ☕";
+"textJobRequirements" = "années min";
+"textJobPropulsed" = "Propulsé par";
+"textFeedbackNotStarted" = "Encore un peu de patience, vous pourrez partagez vos feedbacks lorsque la session démarrera.";
+
+"actionFeedback" = "Donne ton feedback";
+"actionItinerary" = "Itinéraire";
+"actionTwitter" = "Twitter";
+"actionMastodon" = "Mastodon";
+"actionLinkedin" = "LinkedIn";
+"actionGitHub" = "GitHub";
+"actionWebsite" = "Site web";
+"actionFaq" = "FAQ";
+"actionCoc" = "Code de Conduite";
+"actionProfile" = "Crée ton profil";
+"actionTicketScanner" = "Scan ton ticket";
+"actionMenus" = "Menus";
+"actionChangeEvent" = "Changer d'évènement";
+"actionGenerateQrcode" = "Générer ton Qrcode";
+"actionFilteringFavorites" = "Seulement les conférences en favoris";
+"actionQrcodeScanner" = "Scanner de Qrcode de profile";
+"actionQrcodeGenerator" = "Génèrer le Qrcode de votre profile";
+"actionDeleteNetworkProfile" = "Supprimer le profile";
+"actionPowerOff" = "Changer d'évènement";
+"actionToggleFavorite" = "Mettre en favoris";
+"actionRemoveFavorite" = "Retirer des favoris";
+
+"inputEmail" = "Ton adresse email*";
+"inputFirstname" = "Ton prénom*";
+"inputLastname" = "Ton nom*";
+"inputCompany" = "Ton entreprise";
+"inputShareTalk" = "%@ par %@";
+
+"semanticHHmm %lld %lld" = "%lld heures %lld minutes";
+"semanticScheduleTime %lld %lld %lld %lld" = "De %lld heures %lld minutes à %lld heures %lld minutes";
+"semanticTwitter %@" = "Twitter de %@";
+"semanticMastodon %@" = "Mastodon de %@";
+"semanticGitHub %@" = "GitHub de %@";
+"semanticLinkedIn %@" = "LinkedIn de %@";
+"semanticWebsite %@" = "Site de %@";
+"semanticTicketId %@" = "Identifiant de ton billet %@";
+"semanticProfileQrcode" = "Ton Qrcode est affiché et prêt à être scanné";
+"semanticTicketQrcode" = "Qrcode de ton ticket prêt à être scanné";
+"semanticTalkItemSpeakers" = "avec %@ comme speaker";
+"semanticTalkItemRoom" = "dans la salle %@";
+"semanticTalkItemTime" = "pendant %d minutes";
+"semanticTalkItemCategory" = "dans la categorie %@";
+"semanticTalkItemLevel" = "pour niveau %@";

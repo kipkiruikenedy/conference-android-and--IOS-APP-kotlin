@@ -1,0 +1,95 @@
+/*
+  Localizable.strings
+  iosApp
+
+  Created by GERARD on 01/05/2022.
+  Copyright © 2022 orgName. All rights reserved.
+*/
+
+"screenEventsFuture" = "Future events";
+"screenEventsPast" = "Past events";
+"screenAgenda" = "Agenda";
+"screenNetworking" = "Networking";
+"screenPartners" = "Partners";
+"screenEvent" = "Event";
+
+"titleGold" = "Gold";
+"titleSilver" = "Silver";
+"titleBronze" = "Bronze";
+"titleNetworkProfile" = "Delete a profile";
+"titleNotifReminderTalk %@" = "Talk in 10 minutes in %@";
+"titleNotifReminderTalkSpeakers %@" = "By %@";
+"titlePlanPartner" = "Go to the partner location";
+"titleJobs" = "Jobs";
+"titleCommunication" = "Communication on social networks";
+"titleCommunicationTwitter" = "Twitter message";
+"titleCommunicationLinkedin" = "LinkedIn message";
+"titleLinks" = "Links";
+"titleTalks" = "Talks";
+"titleCompany" = "Company";
+"titleJob" = "Job";
+
+"textLoading" = "Loading…";
+"textError" = "Something wrong happened";
+"textScheduleTime %@ %@" = "From %@ to %@";
+"textLevelAdvanced" = "Advanced";
+"textLevelIntermediate" = "Intermediate";
+"textLevelBeginner" = "Beginner";
+"textOpenfeedbackNotStarted" = "You'll be able to give feedback when the session has started!";
+"textReportSubject" = "Report from Devfest Lille App";
+"textReportAppTarget" = "Choose an Email client:";
+"textNetworkingEmpty" = "Here is the networking space. Create your profile to be able to add attendees you will meet and with who you want to keep contact after the event!";
+"textNetworkingWarning" = "If you create your profile and share your qrcode, you accept the prospecting that this scan may represent by one of our partners.";
+"textNetworkingHereWeGo" = "Here we go!";
+"textNetworkingAskToDelete %@ %@" = "Are you sure you want to delete %@ %@ from your networking space?";
+"textTicketFirstname" = "First Name";
+"textTicketLastname" = "Last Name";
+"textAgendaNoFavorites" = "You don't have any talks in favorites";
+"textPauseItem" = "Pause ☕";
+"textJobRequirements" = "years min";
+"textJobPropulsed" = "Propulsed by";
+"textFeedbackNotStarted" = "Wait a little, you will be able to give feedbacks when the session has started.";
+
+"actionFeedback" = "Give your feedback";
+"actionItinerary" = "Itinerary";
+"actionTwitter" = "Twitter";
+"actionMastodon" = "Mastodon";
+"actionLinkedin" = "LinkedIn";
+"actionGitHub" = "GitHub";
+"actionWebsite" = "Website";
+"actionFaq" = "FAQ";
+"actionCoc" = "Code Of Conduct";
+"actionProfile" = "Create my profile";
+"actionTicketScanner" = "Scan your ticket";
+"actionMenus" = "Menus";
+"actionChangeEvent" = "Change event";
+"actionGenerateQrcode" = "Generate your QR code";
+"actionFilteringFavorites" = "Only favorites schedules";
+"actionQrcodeScanner" = "Profile Qrcode scanner";
+"actionQrcodeGenerator" = "Qrcode generator for your profile";
+"actionDeleteNetworkProfile" = "Delete the profile";
+"actionPowerOff" = "Change event";
+"actionToggleFavorite" = "Put in favorite";
+"actionRemoveFavorite" = "Remove favorite";
+
+"inputEmail" = "Your email address*";
+"inputFirstname" = "Your first name*";
+"inputLastname" = "Your last name*";
+"inputCompany" = "Your company";
+"inputShareTalk" = "%@ by %@";
+
+"semanticHHmm %lld %lld" = "%lld hours %lld minutes";
+"semanticScheduleTime %lld %lld %lld %lld" = "From %lld hours %lld minutes to %lld hours %lld minutes";
+"semanticTwitter %@" = "Twitter of %@";
+"semanticMastodon %@" = "Mastodon of %@";
+"semanticGitHub %@" = "GitHub of %@";
+"semanticLinkedIn %@" = "LinkedIn of %@";
+"semanticWebsite %@" = "Website of %@";
+"semanticTicketId %@" = "Identifier of your ticket %@";
+"semanticProfileQrcode" = "Your profile qrcode is displayed and ready to be scanned";
+"semanticTicketQrcode" = "Qrcode of your ticket ready to be scanned";
+"semanticTalkItemSpeakers" = "with %@ as speaker";
+"semanticTalkItemRoom" = "in %@ room";
+"semanticTalkItemTime" = "during %d minutes";
+"semanticTalkItemCategory" = "in category %@";
+"semanticTalkItemLevel" = "for level %@";
