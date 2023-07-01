@@ -1,4 +1,4 @@
-# Conferences4Hall
+# Conferences app
 
 Real life Kotlin Multiplatform project with an iOS application
 developed in Swift with SwiftUI, an Android application developed
