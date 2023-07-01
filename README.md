@@ -153,7 +153,7 @@ gcloud run deploy $IMAGE --image=eu.gcr.io/$PROJECT_ID/$IMAGE:$TAG \
 
 ## License
 
-    Copyright 2022 Gérard Paligot.
+    Copyright 2023 Oltitia Kenedy Kipkirui.
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
